@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShresthaPrajwal
-- 👀 I’m interested in mobile and web application development.
+- 👀 I’m interested in mobile and web application development, Machine learning and Deep learning.
 - 🌱 I’m currently learning mobile app development using flutter framework.
 - 📫 Reach me on -insta : __prajwalshrestha
 
